@@ -5,7 +5,7 @@ frequently used commands
 
 
 
-[TOC]
+
 
 ### <font color=#FF0000>**常用Linux命令汇总**</font>
 
