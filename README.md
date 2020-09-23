@@ -5,7 +5,7 @@ frequently used commands
 
 
 
-
+[TOC]
 
 ### <font color=#FF0000>**常用Linux命令汇总**</font>
 
@@ -348,4 +348,6 @@ scp -P 10022 -r /home/cseadmin/anaconda3/envs/haru cseadmin@10.20.48.171:/home/c
 ```powershell
 python3 -m http.server
 ```
+
+
 
