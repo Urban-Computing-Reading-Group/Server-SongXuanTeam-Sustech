@@ -1,4 +1,4 @@
-# Server-SongXuanTeam-sustech
+# Server-SongXuanTeam-Sustech
 frequently used commands
 
 <font color=#FF8C00>maker: </font> Kaiyue Zhang, Du Yin, Yicheng Zhao
